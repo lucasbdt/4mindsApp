@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_agenda"
+            android:icon="@drawable/ic_agenda"
+            android:title="Agenda" />
+
+        <item android:id="@+id/nav_ficha"
+            android:icon="@drawable/ic_ficha_paciente"
+            android:title="Ficha Paciente" />
+
+        <item android:id="@+id/nav_cadastrar"
+        android:icon="@drawable/ic_cadastrar"
+        android:title="Cadastrar"/>
+
+        <item android:id="@+id/nav_cad_prof"
+            android:icon="@drawable/ic_cadastrar"
+            android:title="Cadastrar Profissional"/>
+
+        <item android:id="@+id/nav_finance"
+            android:icon="@drawable/ic_finance"
+            android:title="Financeiro" />
+    </group>
+
+
+</menu>

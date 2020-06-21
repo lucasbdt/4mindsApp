@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="cargos">
+        <item>Psicanalise</item>
+        <item>Psiquiatra</item>
+        <item>Iridologia</item>
+        <item>Psycho Naturopata</item>
+    </string-array>
+</resources>
